@@ -1252,3 +1252,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.28-22.08.05:038][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2024.03.28-22.08.05:106][342]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2024.03.28-22.08.06:331][473]LogViewport: Scene viewport resized to 1014x580, mode Windowed.
+[2024.03.28-22.08.33:205][713]LogDerivedDataCache: C:/Users/TriangleMakerspace/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.453 and deleted 5828 files with total size 729 MiB and 5750 empty folders. Scanned 9996 files in 12352 folders with total size 1022 MiB.
