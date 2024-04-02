@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/grainger_bob.uasset",
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/grainger_bob_PhysicsAsset.uasset",
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/grainger_bob_Skeleton.uasset",
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/Hair.uasset",
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/Animations/Idle.uasset",
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/metallic_skin.uasset",
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/pants.uasset",
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/Animations/Running_1_.uasset",
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/shirt.uasset",
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/shoes.uasset",
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/under_shirt.uasset",
 				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EX/DOLXFBZVO5U97D4D0Z1GJN.uasset"
 			]
