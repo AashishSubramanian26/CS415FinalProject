@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EX/DOLXFBZVO5U97D4D0Z1GJN.uasset",
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/O4/COTIGZU9MA0MSJR1HXDQU0.uasset",
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/1Y/P992FRMGPZXY1JFSX43Z1C.uasset",
+				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/VQ/3G39VQ8ZKGDEG42IN9CNGQ.uasset",
 				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/grainger_bob.uasset",
 				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/grainger_bob_PhysicsAsset.uasset",
 				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/grainger_bob_Skeleton.uasset",
@@ -15,9 +22,7 @@
 				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/Animations/Running_1_.uasset",
 				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/shirt.uasset",
 				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/shoes.uasset",
-				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/under_shirt.uasset",
-				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EX/DOLXFBZVO5U97D4D0Z1GJN.uasset"
+				"C:/Users/Gable/Desktop/CS_415/Final_Project/CS415FinalProject/TheMidnightCram/Content/GraingerBob/under_shirt.uasset"
 			]
 		}
 	]
