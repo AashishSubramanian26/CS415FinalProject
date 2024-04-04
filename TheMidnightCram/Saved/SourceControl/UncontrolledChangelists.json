@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/omeedjamali/Documents/Github/CS415FinalProject/TheMidnightCram/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
+				"/Users/omeedjamali/Documents/Github/CS415FinalProject/TheMidnightCram/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"/Users/omeedjamali/Documents/Github/CS415FinalProject/TheMidnightCram/Content/FirstPerson/Blueprints/Items/Notes/Note.uasset",
 				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EX/DOLXFBZVO5U97D4D0Z1GJN.uasset",
 				"C:/Users/Aashish Subramanian/OneDrive/Documents/GitHub/CS415FinalProject/TheMidnightCram/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
