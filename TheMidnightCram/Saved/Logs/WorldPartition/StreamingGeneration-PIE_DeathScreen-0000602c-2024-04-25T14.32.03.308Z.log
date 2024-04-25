@@ -1,0 +1,93 @@
+[+] Containers:
+ |- [+] Container: /Game/FirstPerson/Maps/DeathScreen
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:38E553AD404F790D3281929F9BC6DD1F BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_7C66EFF810878CEF01_1919179184 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=850.000 Y=790.000 Z=190.000), Max=(X=930.000 Y=870.000 Z=374.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4E34672E43F9BDBE00EC96AB11A3B85C BaseClass:/Game/HorrorEngine/Blueprints/UsableAssets/Lights/Spotlight.Spotlight_C NativeClass:/Script/Engine.Actor Name:Spotlight_C_UAID_7C66EFF810875EED01_1174832985 Label:Spotlight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=730.000 Z=90.000), Max=(X=1260.000 Y=890.000 Z=251.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7045F85A42096B77D58E16B4F2A09928 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_7C66EFF810875DED01_2038079805 Label:Floor_400x400 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1070.000 Y=590.000 Z=-0.000), Max=(X=1470.000 Y=990.000 Z=20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:85FDD1234D3C32AE641527B28939F280 BaseClass:/Game/Blueprints/DeathScreenSpawn.DeathScreenSpawn_C NativeClass:/Script/Engine.Actor Name:DeathScreenSpawn_C_UAID_7C66EFF810878FEF01_1486755714 Label:DeathScreenSpawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=910.000 Y=810.000 Z=170.000), Max=(X=910.000 Y=810.000 Z=170.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BE32FC61492A77C4BF43CDB1B255BC97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:D527BC504930B901B095DFBF30CC1731 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_7C66EFF810875DED01_2094679807 Label:Idle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1212.037 Y=761.117 Z=14.958), Max=(X=1317.187 Y=866.576 Z=190.482) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:38E553AD404F790D3281929F9BC6DD1F BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_7C66EFF810878CEF01_1919179184 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=850.000 Y=790.000 Z=190.000), Max=(X=930.000 Y=870.000 Z=374.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:4E34672E43F9BDBE00EC96AB11A3B85C BaseClass:/Game/HorrorEngine/Blueprints/UsableAssets/Lights/Spotlight.Spotlight_C NativeClass:/Script/Engine.Actor Name:Spotlight_C_UAID_7C66EFF810875EED01_1174832985 Label:Spotlight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=730.000 Z=90.000), Max=(X=1260.000 Y=890.000 Z=251.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:7045F85A42096B77D58E16B4F2A09928 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_7C66EFF810875DED01_2038079805 Label:Floor_400x400 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1070.000 Y=590.000 Z=-0.000), Max=(X=1470.000 Y=990.000 Z=20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:85FDD1234D3C32AE641527B28939F280 BaseClass:/Game/Blueprints/DeathScreenSpawn.DeathScreenSpawn_C NativeClass:/Script/Engine.Actor Name:DeathScreenSpawn_C_UAID_7C66EFF810878FEF01_1486755714 Label:DeathScreenSpawn SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=910.000 Y=810.000 Z=170.000), Max=(X=910.000 Y=810.000 Z=170.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:BE32FC61492A77C4BF43CDB1B255BC97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:D527BC504930B901B095DFBF30CC1731 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_7C66EFF810875DED01_2094679807 Label:Idle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1212.037 Y=761.117 Z=14.958), Max=(X=1317.187 Y=866.576 Z=190.482) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=910.000 Y=590.000 Z=-0.000), Max=(X=1470.000 Y=990.000 Z=251.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FirstPerson/Maps/DeathScreen
+----------------------------------------------------------------------------------------------------------------
+DeathScreen - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of DeathScreen Persistent Level
+ |- Always loaded Actor Count: 13 
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/FirstPerson/Maps/DeathScreen
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.Brush_0
+ |- Actor Package: /Game/FirstPerson/Maps/DeathScreen
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.DeathScreen_C_8
+ |- Actor Package: /Game/FirstPerson/Maps/DeathScreen
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.DeathScreenSpawn_C_UAID_7C66EFF810878FEF01_1486755714
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/7/UN/K9VLM1KXLLM5UM9O2POXO7
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/FirstPerson/Maps/DeathScreen
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/FirstPerson/Maps/DeathScreen
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.PlayerStart_UAID_7C66EFF810878CEF01_1919179184
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/2/AI/XJJA2WZ5BVTMMQMLH3B9N6
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.SkeletalMeshActor_UAID_7C66EFF810875DED01_2094679807
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/A/2V/Z723962QTGTWV9EW4DXN8K
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.Spotlight_C_UAID_7C66EFF810875EED01_1174832985
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/A/FT/BIBHEEH2HB85GSYMRCBEP5
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.StaticMeshActor_UAID_7C66EFF810875DED01_2038079805
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/E/VO/I4BPTZMJ3TIP2NLJQFENWD
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/C/7H/AB02Q1YF3YT2SAB7YSVING
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.WorldPartitionMiniMap_UAID_7C66EFF810875DED01_2007419804
+ |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/0/N0/81OR7DF066PLIRD70WMSUN
+ |- Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/FirstPerson/Maps/DeathScreen
+
+----------------------------------------------------------------------------------------------------------------
+DeathScreen - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=910.000 Y=590.000 Z=-0.000), Max=(X=1470.000 Y=990.000 Z=251.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    4 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell DeathScreen_MainGrid_L0_X0_Y0 (4J5AFYFQHOPI6VFIM9PIQ39GK)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.Spotlight_C_UAID_7C66EFF810875EED01_1174832985
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/A/FT/BIBHEEH2HB85GSYMRCBEP5
+ |   |- Actor Instance Guid: 4E34672E43F9BDBE00EC96AB11A3B85C
+ |   |-          Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.StaticMeshActor_UAID_7C66EFF810875DED01_2038079805
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/E/VO/I4BPTZMJ3TIP2NLJQFENWD
+ |   |- Actor Instance Guid: 7045F85A42096B77D58E16B4F2A09928
+ |   |-          Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.DeathScreenSpawn_C_UAID_7C66EFF810878FEF01_1486755714
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/7/UN/K9VLM1KXLLM5UM9O2POXO7
+ |   |- Actor Instance Guid: 85FDD1234D3C32AE641527B28939F280
+ |   |-          Actor Path: /Game/FirstPerson/Maps/DeathScreen.DeathScreen:PersistentLevel.SkeletalMeshActor_UAID_7C66EFF810875DED01_2094679807
+ |   |-       Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/DeathScreen/A/2V/Z723962QTGTWV9EW4DXN8K
+ |   |- Actor Instance Guid: D527BC504930B901B095DFBF30CC1731
+[+] Content of Grid Level 1
+
